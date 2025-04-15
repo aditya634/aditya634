@@ -19,7 +19,7 @@ I'm a curious learner who enjoys crafting real-world solutions through clean cod
 - **Languages:** Python, C
 - **Frameworks:** Django
 - **Databases:** MySQL, SQLite
-- **Tools & Concepts:** DBMS, DSA, Tableau
+- **Tools & Concepts:** DBMS, DSA, Tableau, Git/GitHub
 - **Soft Skills:** Teamwork, Communication, Problem Solving
 
 ---
